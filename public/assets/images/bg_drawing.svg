@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="887px" height="482px" viewBox="0 0 887 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>bg drawing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-425.000000, -189.000000)">
+        <g id="banner" transform="translate(0.000000, 60.000000)">
+            <g id="main" transform="translate(277.000000, 129.000000)">
+                <g id="bg-drawing" transform="translate(148.000000, 0.066667)">
+                    <g id="lines" transform="translate(519.985053, 79.248241) rotate(2.000000) translate(-519.985053, -79.248241) translate(232.485053, 21.248241)" fill="#FFD3FA">
+                        <rect id="Rectangle-3" transform="translate(296.653783, 80.003865) rotate(6.000000) translate(-296.653783, -80.003865) " x="18.1537829" y="73.9371981" width="557" height="12.1333333"></rect>
+                        <rect id="Rectangle-3-Copy" transform="translate(288.653783, 57.603865) rotate(6.000000) translate(-288.653783, -57.603865) " x="10.1537829" y="51.5371981" width="557" height="12.1333333"></rect>
+                        <rect id="Rectangle-3-Copy-2" transform="translate(277.653783, 35.203865) rotate(6.000000) translate(-277.653783, -35.203865) " x="-0.846217129" y="29.1371981" width="557" height="12.1333333"></rect>
+                    </g>
+                    <polygon id="Star" fill="#9DE1D1" points="355.5 90.5308975 317.49091 109.181288 324.75 69.679127 294 41.7035411 336.495455 35.9402535 355.5 0 374.504545 35.9402535 417 41.7035411 386.25 69.679127 393.50909 109.181288"></polygon>
+                    <polygon id="Rectangle-2" fill="#FFFAB4" points="504.557723 159.288334 887 430.979822 0.471531007 481.926523"></polygon>
+                    <g id="dots" transform="translate(274.000000, 363.000000)" fill="#D194DD">
+                        <ellipse id="Oval-2" cx="7.5" cy="7" rx="7.5" ry="7"></ellipse>
+                        <ellipse id="Oval-2-Copy-3" cx="11.5" cy="32.2" rx="7.5" ry="7"></ellipse>
+                        <ellipse id="Oval-2-Copy" cx="39.5" cy="14.4666667" rx="7.5" ry="7"></ellipse>
+                        <ellipse id="Oval-2-Copy-4" cx="43.5" cy="39.6666667" rx="7.5" ry="7"></ellipse>
+                        <ellipse id="Oval-2-Copy-2" cx="68.5" cy="21.9333333" rx="7.5" ry="7"></ellipse>
+                        <ellipse id="Oval-2-Copy-5" cx="73.5" cy="47.1333333" rx="7.5" ry="7"></ellipse>
+                    </g>
+                    <ellipse id="Oval-3" stroke="#93C2FF" stroke-width="10" cx="649" cy="85.8666667" rx="61" ry="56.9333333"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
