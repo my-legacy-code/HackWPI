@@ -2,11 +2,9 @@
 
 ## Getting Started
 ### Prerequisites
-
 - Node.js
 
 ### Installation
-
 1. Run `npm install` to install the required dependencies.
 2. Add `HACKATHON_SECRET` environment variable for JWT token signing and verification.
 3. Create `data` folder under root directory.
@@ -30,5 +28,7 @@ HACKATHON_SECRET=xxxxx PORT=8000 npm start
 ```
 
 ## License
-
 This repo is maintained user MIT license.
+
+## Frontend
+You can find the frontend [here](https://github.com/byliuyang/hackwpi-frontend)
