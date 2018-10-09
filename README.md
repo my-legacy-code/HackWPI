@@ -22,6 +22,13 @@ module.exports = [
 ];
 ```
 
+### Running
+To start development server, run:
+
+```
+HACKATHON_SECRET=xxxxx PORT=8000 npm start
+```
+
 ## License
 
 This repo is maintained user MIT license.
