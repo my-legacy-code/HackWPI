@@ -1,4 +1,4 @@
-# HackWPI Official Website
+# HackWPI Website
 
 ## Getting Started
 ### Prerequisites
